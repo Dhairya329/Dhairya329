@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey Guys👋
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 <!--
 **Dhairya329/Dhairya329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
