@@ -1,7 +1,4 @@
 ## Hey Guys👋
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-  ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
-
 
 <!--
 **Dhairya329/Dhairya329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
