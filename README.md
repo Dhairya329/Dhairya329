@@ -1,6 +1,5 @@
 # 💫 Hey, I'm Dhairya Gupta👋
 
-
 ## 🔥 About Me
 - 🔭 Currently grinding **Data Structures & Algorithms (Java)**
 - 🤝 Open to collaboration → **DM me on LinkedIn or drop an email**
