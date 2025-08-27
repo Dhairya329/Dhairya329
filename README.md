@@ -1,4 +1,4 @@
-#💫 Hey, I'm Dhairya Gupta👋
+# 💫 Hey, I'm Dhairya Gupta👋
 
 
 ## 🔥 About Me
