@@ -1,5 +1,4 @@
-<!-- Header -->
-<h1 align="center">💫 Hey, I'm Dhairya Gupta👋</h1>
+#💫 Hey, I'm Dhairya Gupta👋
 
 
 ## 🔥 About Me
@@ -22,23 +21,23 @@
 </p>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhairya329&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhairya329&theme=tokyonight&layout=compact&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=Dhairya329&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=Dhairya329&theme=tokyonight&hide_border=true" />
 </p>
 
 
-### ✍️ Quote of the Day
+## ✍️ Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mach&icon=5&color=6" alt="Visitor Count"/>
+  <img src="https://visitcount.itsvg.in/api?id=Dhairya329&icon=5&color=6" alt="Visitor Count"/>
 </p>
