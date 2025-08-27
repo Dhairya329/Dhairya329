@@ -1,14 +1,14 @@
-# 💫 Hey, I'm Dhairya Gupta👋
+  <h1 align="center">💫 Hey Guys, I'm Dhairya Gupta👋</h1>
 
 ## 🔥 About Me
 - 🔭 Currently grinding **Data Structures & Algorithms (Java)**
 - 🤝 Open to collaboration → **DM me on LinkedIn or drop an email**
-- ⚡ Fun fact: I’m addicted to **Green Dots 💚**
+- ⚡ And I’m addicted to **Green Dots 💚**
 
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,c,git,github" />
 </p>
 
 
@@ -37,5 +37,5 @@
 
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dhairya329&icon=5&color=6" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Dhairya329&color=brightgreen&style=flat&label=Profile+views" alt="Profile Views"/>
 </p>
