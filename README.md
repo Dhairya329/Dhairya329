@@ -3,13 +3,19 @@
 ## 🔥 About Me
 - 🔭 Currently grinding **Data Structures & Algorithms (Java)**
 - 🤝 Open to collaboration → **DM me on LinkedIn or drop an email**
-- ⚡ And I’m addicted to **Green Dots 💚**
+- ⚡ I’m addicted to **Green Dots 💚**
 
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,git,github" />
-</p>
+## 💻 Tech Stack  
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+![DSA](https://img.shields.io/badge/DSA-2F80ED?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
 
 
 ## 📊 GitHub Stats:
