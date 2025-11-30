@@ -1,5 +1,12 @@
   <h1 align="center">💫 Hey Guys, I'm Dhairya Gupta👋</h1>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!!!;Mastering+Data+Structures+%26+Algorithms..;Coding+Everyday!!+😎" />
+</p>
+
+
+
 ## 🔥 About Me
 - 🔭 Currently grinding **Data Structures & Algorithms (Java)**
 - 🤝 Open to collaboration → **DM me on LinkedIn or drop an email**
@@ -43,5 +50,11 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhairya329&color=brightgreen&style=flat&label=Profile+views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Dhairya329&color=BB86FC&style=flat&label=Profile+views" alt="Profile Views"/>
 </p>
+
+
+
+
+
+
