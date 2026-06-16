@@ -8,7 +8,7 @@
 
 ## 🔥 About Me
 - 📱 Native Android Developer
-- 🔭 Currently grinding **Data Structures & Algorithms (Java)**
+- 🔭 Grinding **Data Structures & Algorithms (Java)**
 - 🤝 Open to collaboration → **DM me on LinkedIn or drop an email**
 - ⚡ I’m addicted to **Green Dots 💚**
 
