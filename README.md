@@ -8,7 +8,7 @@
 - 📱 Native Android Developer specializing in **Kotlin** & **Jetpack Compose**
 - 🔭 Strengthening **Data Structures & Algorithms** fundamentals (Java) — 300+ problems solved
 - 🤝 Open to collaboration → reach out via **LinkedIn** or **email**
-- ⚡ Committed to consistent, daily growth as an engineer
+- 💚 Addicted to green dots 
   
 ## 💻 Tech Stack
 <div align="center">
