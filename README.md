@@ -36,7 +36,7 @@
   <img src="https://nirzak-streak-stats.vercel.app?user=Dhairya329&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🌐 Connect With Me
+## 🌐 Find Me Online
 <p align="center">
   <a href="https://www.linkedin.com/in/dhairya-gupta-55153a30b/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Dhairya329/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
